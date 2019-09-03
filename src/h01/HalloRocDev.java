@@ -5,6 +5,6 @@ package h01;
  */
     public class HalloRocDev {
 
-    public static void main(String[] args) { System.out.println("Welcome back Meduza!");
+    public static void main(String[] args) { System.out.println("Welcome back Meduzaxversace!");
     }
 }
