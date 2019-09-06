@@ -15,9 +15,9 @@ public class Opdracht2 extends Applet {
         g.drawLine(100,100, 175, 25);
         g.drawLine(250, 100, 175, 25);
 
-        g.drawRect(180, 210, 25, 40);
+        g.drawRect(180, 180, 40, 70);
 
-        g.drawRect(120, 150, 75, 30);
+        g.drawRect(120, 110, 75, 50);
 
         g.drawOval(165, 60, 20, 20);
     }
