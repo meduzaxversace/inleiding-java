@@ -10,10 +10,10 @@ public class Opdracht2 extends Applet {
     }
 
     public void paint(Graphics g) {
-        g.drawRect(150, 150, 200, 200);
+        g.drawRect(100, 100, 150, 150);
 
-        g.drawLine(150,150, 225, 75);
-        g.drawLine(300, 150, 225, 75);
+        g.drawLine(100,100, 175, 25);
+        g.drawLine(250, 100, 175, 25);
 
         g.drawRect(180, 210, 25, 40);
 
